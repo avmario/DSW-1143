@@ -1,0 +1,28 @@
+header{
+    background-color: black;
+    color: beige;
+    text-align: center;
+
+}
+
+#segundo {
+    color: red;
+    background-color: aqua;
+}
+
+.centradito{
+    text-align: center;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
+.contenedor{
+    background-color: blue;
+}
+@media screen and (max-width:600px){
+    .contenedor{
+        background-color: brown;
+    }
+    
+}
